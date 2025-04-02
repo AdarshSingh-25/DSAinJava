@@ -1,1 +1,2 @@
-# DSAinJava placement ready course(alpha)
+# DSAinJava
+placement ready course(alpha)
